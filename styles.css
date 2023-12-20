@@ -22,14 +22,14 @@
 	height: 170px;
 	padding: 5px;
 	width: 170px;
-	margin-left: 15px;
+	margin-left: 10px;
 }
 #box4{
 	background-color: light blue;
-	 text-align: center;
+	text-align: center;
 	border: 2px solid black;
 	width: 130px;
 	height: 120px;
-	margin-left: 25px;
+	margin-left: 15px;
 	margin-top: 15px;
 }
