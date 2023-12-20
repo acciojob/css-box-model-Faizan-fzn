@@ -28,9 +28,12 @@
 #box4{
 	background-color: light blue;
 	text-align: center;
-	border: 2px solid black;
 	width: 130px;
 	height: 120px;
+	margin: 20px;
 	margin-left: 15px;
 	margin-top: 15px;
+	
+    Border: 15px solid blue;
+    padding: 5 px;
 }
